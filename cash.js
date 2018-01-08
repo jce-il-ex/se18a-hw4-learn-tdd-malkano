@@ -16,3 +16,8 @@ totalPayable = 486           // £4.86
 cashPaid     = 1000          // £10.00
 difference   = 514           // £5.14
 change       = [500,10,2,2]  // £5, 10p, 2p, 2p
+
+totalPayable = 1487                                 // £14.87  (fourteen pounds and eighty-seven pence)
+cashPaid     = 10000                                // £100.00 (one hundred pounds)
+difference   = 8513                                 // £85.13
+change       = [5000, 2000, 1000, 500, 10, 2, 1 ]   // £50, £20, £10, £5, 10p, 2p, 1p
